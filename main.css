@@ -1,0 +1,18 @@
+body{
+    align-items: center;
+background-color: limegreen;
+}
+#editor{
+height:auto;
+border-color: maroon;
+border-width: solid, 30px;
+border-radius: 1%;
+
+}
+#preview{
+height:auto;
+}
+.form-group{
+    border-color: maroon;
+    border-width: solid,30px;
+}
